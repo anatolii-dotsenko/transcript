@@ -2,3 +2,6 @@
 .vscode
 .DS_Store
 .env
+lectures/
+yt_notes/__pycache__
+yt_notes.log
