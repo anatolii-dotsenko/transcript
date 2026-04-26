@@ -28,7 +28,7 @@ from yt_notes.logger import get_logger
 log = get_logger(__name__)
 
 # Gemini model to use. Flash is free-tier-friendly; swap for Pro if needed.
-_MODEL_NAME = "gemini-1.5-flash"
+_MODEL_NAME = "models/gemini-2.5-flash"
 
 # Summarisation prompt template
 _PROMPT_TEMPLATE = """\
